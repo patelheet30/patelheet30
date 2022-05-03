@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patelheet30
-- 👀 I’m interested in minecraft plugis.
+- 👀 I’m interested in Discord bots currently.
 - 🌱 I’m currently learning bio chemistry
-- 💞️ I’m looking to collaborate on Nothing yes
+- 💞️ I’m not looking to collaborate on anything
 - 📫 How to reach me. Message me?
 
 <!---
