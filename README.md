@@ -1,4 +1,3 @@
-<img src="https://img.shields.io/twitter/follow/patelheet30?label=Follow%20me%20on%20Twitter&style=social" />
 
 - 👋 Hi, I’m [@patelheet30](https://github.com/patelheet30")
 - 👀 I’m interested in HTML, CSS, JS currently.
