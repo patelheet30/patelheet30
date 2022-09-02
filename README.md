@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m [@patelheet30](https://github.com/patelheet30")
-- 👀 I’m interested in HTML, CSS, JS currently.
+- 👀 I’m interested in Discord Bots written in Python currently.
 - 🌱 I’m currently learning biology, chemistry and maths
 - 📫 How to reach me. Message me?
 
