@@ -1,8 +1,7 @@
 
-- 👋 Hi, I’m [@patelheet30](https://github.com/patelheet30)
-- 👀 I’m interested in Discord Bots written in Python currently.
-- 🌱 I’m currently learning biology, chemistry and maths
-- 📫 How to reach me. Message me?
+Hi, I'm Heet Patel. I'm currently a data science student at Nottingham Trent.
+I enjoy messing around with everything. I make websites and currently making
+my own discord bot.
 
 <!---
 patelheet30/patelheet30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
