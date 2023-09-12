@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/patelheet30/github-readme-stats">
   <img align="center" src="https://github-readme-stats-flame-six.vercel.app/api/top-langs/?username=patelheet30&langs_count=8&layout=compact" width="49.6%"/>
 </a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heetkpatel&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
