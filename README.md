@@ -1,7 +1,7 @@
 
 Hi, I'm Heet Patel. I'm currently a data science student at Nottingham Trent.
-I enjoy messing around with everything. I am currently making SpotiStats which is a
-spotify data viewing program built with flask.
+I enjoy messing around with everything. I am currently making SpotifyStats which is a
+Spotify data viewing program built with flask.
 
 <!---
 patelheet30/patelheet30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
