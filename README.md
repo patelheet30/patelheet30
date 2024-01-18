@@ -1,14 +1,10 @@
+<div align="center">
+Hi, I'm Heet Patel. Data Science student at Nottingham Trent University.
+</div>
 
-Hi, I'm Heet Patel. I'm currently a data science student at Nottingham Trent.
-I enjoy messing around with everything. I am currently making SpotifyStats which is a
-Spotify data viewing program built with flask.
-
-<!---
-patelheet30/patelheet30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heetkpatel&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  
+[![Spotify Profile](https://spotify-github-profile.vercel.app/api/view?uid=heetkpatel&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelheet30&theme=tokyonight)
+[![Top Lang Time spent](https://github-readme-stats.vercel.app/api/wakatime?username=patelheet30\&layout=compact&theme=dark&custom_title=Time%20Spent%20(All%20Time)&hide=.env%20file,%20Other,%20Assembly,%20Gitignore%20file,%20Text,%20SVG,%20env%20file)](https://github.com/anuraghazra/github-readme-stats)
+</div>
