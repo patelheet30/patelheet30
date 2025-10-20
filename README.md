@@ -1,5 +1,5 @@
 <div align="center">
-Hi, I'm Heet Patel. Data Science student at Nottingham Trent University.
+Hi, I'm Heet Patel. Recent Data Science Graduate from Nottingham Trent University
 </div>
 
 <div align="center">
