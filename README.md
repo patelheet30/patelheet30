@@ -10,5 +10,7 @@ Hi, I'm Heet Patel. Recent Data Science Graduate from Nottingham Trent Universit
   Find out more about me at my [Portfolio](https://patelheet.com)
   <br>
   Currently rewriting my Discord Bot, Serenity, to improve scalability and maintainability.
+  <br>
+  Also working on NextUp, a movie/tv show tracker iOS app, built with Swift and UIKit
   
 </div>
