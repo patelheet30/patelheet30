@@ -5,7 +5,7 @@ Hi, I'm Heet Patel.
 <div align="center">
   
 # 💫 About Me:
-🔭 I'm currently working on ParadiseTrade, ParadiseTeamChat, and Serenity<br>📖 Graduated from Nottingham Trent University with a First-Class Honours in Data Science<br>🌱 I’m currently learning Java, AI/ML, and Financial Modelling
+🔭 I'm currently working on Nomad Express (Indie Game), and Serenity<br>📖 Graduated from Nottingham Trent University with a First-Class Honours in Data Science<br>🌱 I’m currently learning Java, AI/ML, and Financial Modelling
 
 
 ## 🌐 Socials:
